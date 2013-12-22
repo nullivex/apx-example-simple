@@ -1,0 +1,36 @@
+{
+  "name": "apx-example-simple",
+  "version": "0.1.0",
+  "description": "Small simple example utilizing APX",
+  "homepage": "https://github.com/snailjs/apx-example-simple",
+  "bugs": "https://github.com/snailjs/apx-example-simple/issues",
+  "authors": [
+    {
+      "name": "Bryan Tong",
+      "email": "contact@nullivex.com",
+      "homepage": "https://github.com/nullivex"
+    },
+    {
+      "name": "Tony Butler",
+      "email": "spudz76@gmail.com",
+      "homepage": "https://github.com/spudz76"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snailjs/apx-example-simple.git"
+  },
+  "keywords": [
+    "apx",
+    "example",
+    "hello",
+    "simple"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "apx": "snailjs/apx#master",
+    "apx-express-socket.io": "snailjs/apx-express-socket.io#master"
+  }
+}
