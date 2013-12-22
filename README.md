@@ -3,6 +3,12 @@ apx-example-simple
 
 Small simple example utilizing APX
 
+## Install
+
+```
+$ npm install
+```
+
 ## Start Example
 
 ```
