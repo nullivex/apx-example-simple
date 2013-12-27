@@ -30,8 +30,8 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "apx": "snailjs/apx#master",
-    "apx-express-socket.io": "snailjs/apx-express-socket.io#master",
+    "apx": "~0.4.0",
+    "apx-express-socket.io": "~0.2.0",
     "cluster-master": "~0.2.0"
   }
 }
