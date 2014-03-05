@@ -1,6 +1,6 @@
 {
   "name": "apx-example-simple",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small simple example utilizing APX",
   "homepage": "https://github.com/snailjs/apx-example-simple",
   "bugs": "https://github.com/snailjs/apx-example-simple/issues",
@@ -30,8 +30,8 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "apx": "~0.4.0",
-    "apx-express-socket.io": "~0.2.0",
+    "apx": "~0.7.2",
+    "apx-express-socket.io": "~0.3.0",
     "cluster-master": "~0.2.0"
   }
 }
